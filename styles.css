@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+
+table {
+    border-collapse: collapse; 
+    width: 50%; 
+  }
+  
+  th, td {
+    border: 1px solid black; 
+    text-align: center; 
+    padding: 10px; 
+  }
+  
+  th {
+    background-color: lightgrey; 
+  }
+  
+  img {
+    width: 200px; 
+    height: auto;
+  }
+  
+  video {
+    width: 400px; 
+    height: auto; 
+  }
+  
+  audio {
+    width: 200px; 
+  }
+  
